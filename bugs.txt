@@ -1,0 +1,7 @@
+1. An issue where the game accepts inputs out of range of 1 and 100
+
+2. An issue where the game will always falsely instruct the player 
+   to go higher or lower on their guesses
+
+3. An issue where the game falsely outputs out of attempts and reveals
+   the answer even though "Attempts left: 1" is still displayed

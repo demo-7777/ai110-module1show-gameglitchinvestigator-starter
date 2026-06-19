@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform linux -- Python 3.13.0, pytest-9.0.3, pluggy-1.6.0
+rootdir: /mnt/c/vs/ai110/week2/ai110-module1show-gameglitchinvestigator-starter
+plugins: anyio-4.13.0
+collected 3 items
+
+tests/test_game_logic.py ...                                             [100%]
+
+============================== 3 passed in 0.09s ===============================
